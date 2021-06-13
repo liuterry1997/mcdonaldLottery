@@ -21,8 +21,8 @@ curl --request POST \
   --url localhost:5000/api/users \
   --header 'content-type: application/json' \
   --data '{
- "account": "<yourAccount>",
- "password": "<password>"
+ "account": "<0927010536>",
+ "password": "<nchu210820>"
 }'
 ```
 
